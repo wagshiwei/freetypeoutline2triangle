@@ -34,6 +34,9 @@ static IntPoint BezierN(float t, std::vector<IntPoint>&p, int n, int position) {
 # Project 2
 ## FreeType画一个字的轮廓
 
+#### 查看一个汉字unicode16编码
+![avatar](Readme/20191110.gif)
+
 ![avatar](Readme/p2.png)
 
 # Project 3
